@@ -52,8 +52,8 @@ The dataset used is the classic MNIST dataset of handwritten digits (0–9).
 
 | Model         | Accuracy |
 |---------------|----------|
-| Simple CNN    | 98.87%   |
-| Enhanced CNN  | 99.13%   |
+| Simple CNN    | 99.01%   |
+| Enhanced CNN  | 99.20%   |
 
 ---
 
